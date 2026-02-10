@@ -1,2 +1,4 @@
 # Spotify-Clone
-html css javascipt
+Html
+Css
+Javascrpit
