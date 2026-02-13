@@ -4,6 +4,6 @@ Css
 Javascrpit
 React 
 Tailwind css
-Overall Insights
+
 =
 
