@@ -3,7 +3,7 @@ Html
 Css
 Javascrpit
 React 
-Tailwind css
+
 
 =
 
