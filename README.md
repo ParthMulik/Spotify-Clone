@@ -1,1 +1,1 @@
-the spotify clone is made up of
+the spotify clone is made u
