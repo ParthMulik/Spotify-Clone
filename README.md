@@ -1,1 +1,1 @@
-the spotif
+the spot
