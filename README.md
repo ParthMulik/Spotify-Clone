@@ -1,1 +1,1 @@
-the spotify clone is made u
+the spotify clone is mad
