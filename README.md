@@ -1,2 +1,1 @@
-the spotify clone is made up of html javascript and c
-
+the spotify clone is made up of html javascript and
