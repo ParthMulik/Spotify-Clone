@@ -1,1 +1,1 @@
-the spotify clone is made up of html javascrip
+the spotify clone is made up of html javasc
