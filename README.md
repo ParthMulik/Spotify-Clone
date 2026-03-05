@@ -1,1 +1,1 @@
-the spotify clone is made up of html jav
+the spotify clone is made up of html 
