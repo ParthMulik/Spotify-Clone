@@ -1,1 +1,1 @@
-bdfjb pakhaskn
+bdfjb pakha
