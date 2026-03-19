@@ -1,2 +1,2 @@
-wjjsnamaka
+wjjsna
 
