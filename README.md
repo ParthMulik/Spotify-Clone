@@ -1,1 +1,1 @@
-ghcghc
+ghc
