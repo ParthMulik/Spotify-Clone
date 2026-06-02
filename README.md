@@ -1,1 +1,1 @@
-This is a clone of Spotify app
+This is a clone of Spotify 
