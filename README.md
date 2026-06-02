@@ -1,1 +1,1 @@
-This is a clone of 
+This is a clone 
